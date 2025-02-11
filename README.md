@@ -8,5 +8,5 @@
 
 - 👥 Presidente do [IEEE CIS UnB](https://github.com/UnB-CIS)
 
-## Contact
+## Contato
 - [linkedin](https://www.linkedin.com/in/danilotertuliano/)
